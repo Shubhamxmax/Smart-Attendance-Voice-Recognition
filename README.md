@@ -29,4 +29,3 @@ https://www.kaggle.com/datasets/vjcalling/speaker-recognition-audio-dataset
 - Audio format is **WAV**
 - Voices are collected from public sources like YouTube and audiobooks
 
-### Dataset Structure
